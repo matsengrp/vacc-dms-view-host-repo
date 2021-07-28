@@ -36,18 +36,22 @@ Dataset #4" : ['242C', '24C', '26C', '79C']
 
 *Healthy -> Vaccinated*
 
-Dataset #1" :['12H', '16H', '20H', '24H', '27H', '35H'],
-Dataset #2" :['36H', '38H', '3H', '4H', '50H', '53H', '54H'],
-Dataset #3" :['55H', '56H', '58H', '59H', '65H', '67H', '75H'],
+Dataset #1" :['12H', '16H', '20H', '24H', '27H', '35H']
+
+Dataset #2" :['36H', '38H', '3H', '4H', '50H', '53H', '54H']
+
+Dataset #3" :['55H', '56H', '58H', '59H', '65H', '67H', '75H']
 
 *Infection (Hospitalized)*
 * Participant 6C shows hospitalized infection pre and post infection
 
-hospitalized #1": ['12001', '12004', '12101', '12104', '6', '6C'], 
+Dataset #1": ['12001', '12004', '12101', '12104', '6', '6C'], 
 
 *Infection (Non-hospitalized)*
 
-convalescent only #1": ['1', '2', '3', '4', '5'],
-convalescent only #2": ['7', '8', '9', '10', '11', '12'],
-convalescent only #3": ['13', '14', '15', '16', '17', '18']
+Dataset #1": ['1', '2', '3', '4', '5']
+
+Dataset #2": ['7', '8', '9', '10', '11', '12']
+
+Dataset #3": ['13', '14', '15', '16', '17', '18']
 
