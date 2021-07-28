@@ -1,5 +1,5 @@
 # vacc-dms-view-host-repo
-A repository for holding all DMS data in Garrett-Galloway et. al. - formatted for the DMS-view tool 
+A repository for hosting all DMS data presented in Garrett, Galloway et. al. - formatted for the DMS-view tool 
 
 Here, we break our entire dataset into more manageable subsets and provide a link to view all DMS data using the [DMS-view tool](https://dms-view.github.io/docs/tutorial.html)
 Below, we describe the data subsets which split by cohort and sample condition - while keeping all respective time points and replicates from a single participant ID in the same grouping. Simply click on the link next to the participant list and you'll be re-directed to view all data for the samples listed within the interactive tool. 
@@ -24,7 +24,7 @@ Dataset #8 : ['M43', 'M44', 'M45', 'M46', 'M47', 'M48', 'M49']
 
 ## Cohort 2
 
-*Infection -> Vaccinated*
+**Infection -> Vaccinated**
 
 Dataset #1" : ['103C', '10C', '110C', '118C', '120C', '136C']
 
@@ -34,7 +34,7 @@ Dataset #3" : ['194C', '210C', '213C', '217C', '238C', '239C']
 
 Dataset #4" : ['242C', '24C', '26C', '79C']
 
-*Healthy -> Vaccinated*
+**Healthy -> Vaccinated**
 
 Dataset #1" :['12H', '16H', '20H', '24H', '27H', '35H']
 
@@ -42,12 +42,12 @@ Dataset #2" :['36H', '38H', '3H', '4H', '50H', '53H', '54H']
 
 Dataset #3" :['55H', '56H', '58H', '59H', '65H', '67H', '75H']
 
-*Infection (Hospitalized)*
+**Infection (Hospitalized)**
 * Participant 6C shows hospitalized infection pre and post infection
 
 Dataset #1": ['12001', '12004', '12101', '12104', '6', '6C'], 
 
-*Infection (Non-hospitalized)*
+**Infection (Non-hospitalized)**
 
 Dataset #1": ['1', '2', '3', '4', '5']
 
