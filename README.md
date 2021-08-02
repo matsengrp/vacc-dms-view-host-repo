@@ -12,7 +12,7 @@ Below, we describe the data subsets which split by cohort and sample condition -
 In [Figure X] of the manuscript, we observe pathways of escape at the Fusion Peptide binding region
 for a group of HAARVI participants. To observe the data for any of these, follow these steps, replacing Participant 10C with any participant of your choosing.
 
-1. Click on the relevant dataset link [Dataset #1]() below under *Datset 2*, which will pull up DMS-View website
+1. Click on the relevant dataset link [Dataset #1]() below under *Cohort 2 (HAARVI)*, which will pull up DMS-View website
 2. In the "condition" drop-down menu, select "10C, SPIKE2, Pre-vaccine draw". SPIKEX is the batch replicate identifier - Select the respective *SPIKE1* to see the replicate. So the pattern, generally, for condition naming id "\<Participant ID\>, \<Batch Replicate\>, \<Time point\>"
 3. Brush over the enriched region around peptide location 800.
 4. Brush over the peptides you would like to see enrichment for.
@@ -24,7 +24,7 @@ for a group of HAARVI participants. To observe the data for any of these, follow
 **Note** that in addtion to being able to view the data for all 398 replicates in the study looking at *WT enrichment* and *Scaled Differential Selection*, you can also view a selection of different metrics not presented in the manusctipt. Use the drop down ...
 
 
-## Cohort 1 - Moderna vaccinated individuals 
+## Cohort 1 - MODERNA TRIAL
 
 [Dataset #1]() : ['M01', 'M02', 'M03', 'M04', 'M05', 'M06']
 
@@ -42,7 +42,7 @@ Dataset #7 : ['M37', 'M38', 'M39', 'M40', 'M41', 'M42']
 
 Dataset #8 : ['M43', 'M44', 'M45', 'M46', 'M47', 'M48', 'M49']
 
-## Cohort 2
+## Cohort 2 - HAARVI
 
 **Infection -> Vaccinated**
 
