@@ -13,7 +13,7 @@ In [Figure X] of the manuscript, we observe pathways of escape at the Fusion Pep
 for a group of HAARVI participants. To observe the data for any of these, follow these steps, replacing Participant 10C with any participant of your choosing.
 
 1. Click on the relevant dataset link [Dataset #1]() below under *Datset 2*, which will pull up DMS-View website
-2. In the condition
+2. In the "condition" drop-down menu, select "10C, SPIKE2, Pre-vaccine draw". SPIKEX is the batch replicate identifier - Select the respective *SPIKE1* to see the replicate. So the pattern, generally, for condition naming id "<Participant ID>, <Batch Replicate>, <Time point>"
 
 <p>
   <img src="screenshots/10-C-Pre.png" width="600">
