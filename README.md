@@ -14,11 +14,14 @@ for a group of HAARVI participants. To observe the data for any of these, follow
 
 1. Click on the relevant dataset link [Dataset #1]() below under *Datset 2*, which will pull up DMS-View website
 2. In the "condition" drop-down menu, select "10C, SPIKE2, Pre-vaccine draw". SPIKEX is the batch replicate identifier - Select the respective *SPIKE1* to see the replicate. So the pattern, generally, for condition naming id "\<Participant ID\>, \<Batch Replicate\>, \<Time point\>"
+3. Brush over the enriched region around peptide location 800.
+4. Brush over the peptides you would like to see enrichment for.
 
 <p>
   <img src="screenshots/10-C-Pre.png" width="600">
 </p>
 
+**Note** that in addtion to being able to view the data for all 398 replicates in the study looking at *WT enrichment* and *Scaled Differential Selection*, you can also view a selection of different metrics not presented in the manusctipt. Use the drop down ...
 
 
 ## Cohort 1 - Moderna vaccinated individuals 
