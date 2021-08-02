@@ -12,10 +12,11 @@ Below, we describe the data subsets which split by cohort and sample condition -
 In [Figure X] of the manuscript, we observe pathways of escape at the Fusion Peptide binding region
 for a group of HAARVI participants. To observe the data for any of these, follow these steps, replacing Participant 10C with any participant of your choosing.
 
-1. Click on the relevant dataset link [Dataset #1]() below under *Datset 2*, which will pull up DMS-View website:
+1. Click on the relevant dataset link [Dataset #1]() below under *Datset 2*, which will pull up DMS-View website
+2. In the condition
 
 <p>
-  <img src="screenshots/10-C-Pre.png" width="400">
+  <img src="screenshots/10-C-Pre.png" width="600">
 </p>
 
 
