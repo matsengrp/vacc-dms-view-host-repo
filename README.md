@@ -1,8 +1,14 @@
 # vacc-dms-view-host-repo
-A repository for hosting all DMS data presented in Garrett, Galloway et. al. - formatted for the DMS-view tool 
+A repository for hosting all DMS data presented in Garrett, Galloway et. al. - formatted for the DMS-view tool. If using the [phippery]() package, you can use [This function]() to export your own data for use with DMS-view.
 
 Here, we break our entire dataset into more manageable subsets and provide a link to view all DMS data using the [DMS-view tool](https://dms-view.github.io/docs/tutorial.html)
 Below, we describe the data subsets which split by cohort and sample condition - while keeping all respective time points and replicates from a single participant ID in the same grouping. Simply click on the link next to the participant list and you'll be re-directed to view all data for the samples listed within the interactive tool. 
+
+**CURRENTLY PRIVATE - LINKS BELOW NOT CLICK-ABLE UNTIL MS IN REVIEW.** If you have have access to this repo, you can view any of these datasets by copying the raw data url for the respective dataset in the `DMS-view-data` directory, and paste it in the [DMS-view tool](https://dms-view.github.io/docs/tutorial.html)
+
+## Quick Example
+
+In [Figure X] of the manuscript, we observe pathways of escape at the HR2 
 
 ## Cohort 1 - Moderna vaccinated individuals 
 
