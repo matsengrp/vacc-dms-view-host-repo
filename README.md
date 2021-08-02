@@ -15,7 +15,7 @@ for a group of HAARVI participants. To observe the data for any of these, follow
 1. Click on the relevant dataset link [Dataset #1]() below under *Datset 2*, which will pull up DMS-View website:
 
 <p>
-  <img src="screenshots/10-C-Pre.png" width="250">
+  <img src="screenshots/10-C-Pre.png" width="400">
 </p>
 
 
