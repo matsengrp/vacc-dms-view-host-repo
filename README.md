@@ -1,10 +1,30 @@
 # vacc-dms-view-host-repo
-A repository for hosting all DMS data presented in Garrett, Galloway et. al. - formatted for the DMS-view tool 
+
+A repository for hosting all DMS data (and more) presented in Garrett, Galloway et. al. - formatted for the DMS-view tool. If using the [phippery]() package, you can use [This function]() to export your own data for use with DMS-view.
 
 Here, we break our entire dataset into more manageable subsets and provide a link to view all DMS data using the [DMS-view tool](https://dms-view.github.io/docs/tutorial.html)
 Below, we describe the data subsets which split by cohort and sample condition - while keeping all respective time points and replicates from a single participant ID in the same grouping. Simply click on the link next to the participant list and you'll be re-directed to view all data for the samples listed within the interactive tool. 
 
-## Cohort 1 - Moderna vaccinated individuals 
+**CURRENTLY PRIVATE - LINKS BELOW NOT CLICK-ABLE UNTIL MS IN REVIEW.** If you have have access to this repo, you can view any of these datasets by copying the raw data url for the respective dataset in the `DMS-view-data` directory, and paste it in the [DMS-view tool](https://dms-view.github.io/docs/tutorial.html)
+
+## Quick Example
+
+In [Figure X] of the manuscript, we observe pathways of escape at the Fusion Peptide binding region
+for a group of HAARVI participants. To observe the data for any of these, follow these steps, replacing Participant 10C with any participant of your choosing.
+
+1. Click on the relevant dataset link [Dataset #1]() below under *Cohort 2 (HAARVI)*, which will pull up DMS-View website
+2. In the "condition" drop-down menu, select "10C, SPIKE2, Pre-vaccine draw". SPIKEX is the batch replicate identifier - Select the respective *SPIKE1* to see the replicate. So the pattern, generally, for condition naming id "\<Participant ID\>, \<Batch Replicate\>, \<Time point\>"
+3. Brush over the enriched region around peptide location 800.
+4. Brush over the peptides you would like to see enrichment for.
+
+<p>
+  <img src="screenshots/10-C-Pre.png" width="600">
+</p>
+
+**Note** that in addtion to being able to view the data for all 398 replicates in the study looking at *WT enrichment* and *Scaled Differential Selection*, you can also view a selection of different metrics not presented in the manusctipt. Use the drop down ...
+
+
+## Cohort 1 - MODERNA TRIAL
 
 [Dataset #1](https://dms-view.github.io/?markdown-url=https%3A%2F%2Fraw.githubusercontent.com%2Fmatsengrp%2Fvacc-dms-view-host-repo%2Fmain%2FREADME.md&data-url=https%3A%2F%2Fraw.githubusercontent.com%2Fmatsengrp%2Fvacc-dms-view-host-repo%2Fmain%2FDMS-view-data%2FCohort-1---Moderna-Vaccinated-%25231.csv%3Ftoken%3DAFQESQ4KZUXDRURXIBGFFITBKTJRG&condition=M01%2C+SPIKE1%2C+119+Days+post-vaccination&site_metric=site_WT_enrichment&mutation_metric=mut_scaled_diff_sel&selected_sites=&protein-data-color=&protein-other-color=&pdb-url=https%3A%2F%2Fraw.githubusercontent.com%2Fmatsengrp%2Fvacc-dms-view-host-repo%2Fmain%2FDMS-view-data%2F6vxx.pdb) : ['M01', 'M02', 'M03', 'M04', 'M05', 'M06']
 
@@ -22,7 +42,7 @@ Dataset #7 : ['M37', 'M38', 'M39', 'M40', 'M41', 'M42']
 
 Dataset #8 : ['M43', 'M44', 'M45', 'M46', 'M47', 'M48', 'M49']
 
-## Cohort 2
+## Cohort 2 - HAARVI
 
 **Infection -> Vaccinated**
 
