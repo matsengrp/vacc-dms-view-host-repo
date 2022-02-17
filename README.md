@@ -1,7 +1,5 @@
 # DMS data presented in Garrett, Galloway et. al. 2021 
-formatted for the DMS-view tool with convenient links provided for viewing specific subsets of the sample groups. 
 
-### Comprehensive characterization of the antibody responses to SARS-CoV-2 Spike protein finds additional vaccine- induced epitopes beyond those for mild infection
 **Published in** [elife](http://dx.doi.org/10.7554/eLife.73490).
 Authors: Meghan E. Garrett\*, Jared G. Galloway\*, Caitlin Wolf, Jennifer K. Logue, Nicholas Franko, Helen Chu, Frederick A. Matsen IV^, Julie Overbaugh^
 
@@ -9,7 +7,7 @@ Authors: Meghan E. Garrett\*, Jared G. Galloway\*, Caitlin Wolf, Jennifer K. Log
 ^ co-corresponding authors
 
 A repository for hosting all Phage Deep Mutational Scanning (Phage-DMS data)
-presented in Garrett and Galloway et. al. 
+presented in *Comprehensive characterization of the antibody responses to SARS-CoV-2 Spike protein finds additional vaccine- induced epitopes beyond those for mild infection*
 Here, we break our entire dataset into 
 more manageable subsets and provide a link to view 
 all the data using the 
