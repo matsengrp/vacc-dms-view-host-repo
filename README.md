@@ -7,15 +7,16 @@ Authors: Meghan E. Garrett\*, Jared G. Galloway\*, Caitlin Wolf, Jennifer K. Log
 ^ co-corresponding authors
 
 A repository for hosting all Phage Deep Mutational Scanning (Phage-DMS data)
-presented in *Comprehensive characterization of the antibody responses to SARS-CoV-2 Spike protein finds additional vaccine- induced epitopes beyond those for mild infection*
+presented in *Comprehensive characterization of the antibody responses to SARS-CoV-2 Spike protein finds additional vaccine- induced epitopes beyond those for mild infection*.
 Here, we break our entire dataset into 
 more manageable subsets and provide a link to view 
 all the data using the 
-[DMS-view tool](https://dms-view.github.io/docs/tutorial.html)
+[DMS-view tool](https://dms-view.github.io/docs/tutorial.html).
 Below, we describe the data subsets which split by cohort and sample condition 
 while keeping all respective time points and replicates from a single 
 participant (biologically distinct) 
-in the same grouping. Simply click on the link next to the 
+in the same grouping. 
+Simply click on the link next to the 
 participant list and you'll be re-directed to view all data for the 
 samples listed within the interactive tool. 
 
