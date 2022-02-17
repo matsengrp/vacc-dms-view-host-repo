@@ -6,23 +6,23 @@ Authors: Meghan E. Garrett\*, Jared G. Galloway\*, Caitlin Wolf, Jennifer K. Log
 \* these authors contributed equally to this work.
 ^ co-corresponding authors
 
-A repository for hosting all Phage Deep Mutational Scanning (Phage-DMS data)
+A repository for hosting all Phage Deep Mutational Scanning (Phage-DMS) data
 presented in *Comprehensive characterization of the antibody responses to SARS-CoV-2 Spike protein finds additional vaccine- induced epitopes beyond those for mild infection*.
 Here, we break our entire dataset into 
-more manageable subsets and provide a link to view 
+more manageable subsets and provide links to view 
 all the data using the 
 [DMS-view tool](https://dms-view.github.io/docs/tutorial.html).
-Below, we describe the data subsets which split by cohort and sample condition 
+Below we describe the data subsets which are split by cohort and sample condition --
 while keeping all respective time points and replicates from a single 
-participant (biologically distinct) 
-in the same grouping. 
-Simply click on the link next to the 
-participant list and you'll be re-directed to view all data for the 
-samples listed within the interactive tool. 
+participant (biologically distinct) in the same data subset. 
+To view, simply click on the link next to the 
+participant list and you'll be re-directed to the interactive tool, 
+with all data for the samples listed already loaded for youi exploration.
 
 ## Quick Example
 
-To observe the enrichment and/or mutation-induced pathways of escape data for any of the samples in the manuscript, follow these steps, replacing Participant 10C with any participant of your choosing.
+To observe the enrichment and/or mutation-induced pathways of escape data for any of the samples in the manuscript (and more), 
+follow the steps below, replacing participant *10C* with any participant of your choosing.
 
 1. Click on the relevant dataset link [Dataset #1](https://dms-view.github.io/?markdown-url=https%3A%2F%2Fraw.githubusercontent.com%2Fmatsengrp%2Fvacc-dms-view-host-repo%2Fmain%2FREADME.md&data-url=https%3A%2F%2Fraw.githubusercontent.com%2Fmatsengrp%2Fvacc-dms-view-host-repo%2Fmain%2FDMS-view-data%2FCohort-2---Infected-to-Vacc-%25231.csv&condition=103C%2C+SPIKE1%2C+Post-vaccine+draw+1&site_metric=site_WT_enrichment&mutation_metric=mut_scaled_diff_sel&selected_sites=1145&protein-data-color=&protein-other-color=&pdb-url=https%3A%2F%2Fraw.githubusercontent.com%2Fmatsengrp%2Fvacc-dms-view-host-repo%2Fmain%2FDMS-view-data%2F6vxx.pdb) below under *Cohort 2 (HAARVI)*, which will pull up DMS-View website
 2. In the "condition" drop-down menu, select "10C, SPIKE2, Pre-vaccine draw". SPIKE\<X\> is the batch replicate identifier - Select the respective *SPIKE2* to see the replicate. So the pattern, generally, for condition naming id "\<Participant ID\>, \<Batch Replicate\>, \<Time point\>"
