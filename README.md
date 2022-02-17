@@ -8,10 +8,18 @@ Authors: Meghan E. Garrett\*, Jared G. Galloway\*, Caitlin Wolf, Jennifer K. Log
 \* these authors contributed equally to this work.
 ^ co-corresponding authors
 
-Here, we break our entire dataset into more manageable subsets and provide a link to view all DMS data using the [DMS-view tool](https://dms-view.github.io/docs/tutorial.html)
-Below, we describe the data subsets which split by cohort and sample condition - while keeping all respective time points and replicates from a single participant ID in the same grouping. Simply click on the link next to the participant list and you'll be re-directed to view all data for the samples listed within the interactive tool. 
-
-**CURRENTLY PRIVATE - LINKS BELOW NOT CLICK-ABLE UNTIL MS IN REVIEW.** If you have have access to this repo, you can view any of these datasets by copying the raw data url for the respective dataset in the `DMS-view-data` directory, and paste it in the [DMS-view tool](https://dms-view.github.io/docs/tutorial.html)
+A repository for hosting all Phage Deep Mutational Scanning (Phage-DMS data)
+presented in Garrett and Galloway et. al. 
+Here, we break our entire dataset into 
+more manageable subsets and provide a link to view 
+all the data using the 
+[DMS-view tool](https://dms-view.github.io/docs/tutorial.html)
+Below, we describe the data subsets which split by cohort and sample condition 
+while keeping all respective time points and replicates from a single 
+participant (biologically distinct) 
+in the same grouping. Simply click on the link next to the 
+participant list and you'll be re-directed to view all data for the 
+samples listed within the interactive tool. 
 
 ## Quick Example
 
